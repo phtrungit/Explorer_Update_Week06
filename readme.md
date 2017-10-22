@@ -18,6 +18,6 @@
 ----
 # Luồng sự kiện phụ:
 ----
-# Link repository:<https://github.com/phtrungit/FileExplorer.git>
+# Link repository:<https://github.com/phtrungit/Explorer_Update_Week06>
 ----
 # Link youtube:<https://youtu.be/6trM1FDUc8A>
